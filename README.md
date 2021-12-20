@@ -4,7 +4,7 @@ Basicamente esse lugar é para criar "Issues", com as respectivas altertativas d
 ## 🌻 Quais são os projetos ativos? 🌻
 <table><tr><td><img  width="100" src='https://cdn.discordapp.com/attachments/871449104432119828/922303320687788062/roillee.jpg'/></td><td><p><b><p>Roillee Community [Servidor do Discord]</b><br></p>
   <p><ul>🎨 Arte. (Divulgação grátis, e torneios)</ul></p>
-  <p><ul>⚖️ Assembléia. (Sistema de votação dos Issues(Github), e roleplay de política)</ul></p>
+  <p><ul>⚖️ Assembleia. (Sistema de votação dos Issues(Github), e roleplay de política)</ul></p>
   <p><ul>🎭 Hospedagem de outros projetos. (Canais de voz, membros ativos, canais de textos, torneios)!</ul></p>
 </td></tr></table>
 
