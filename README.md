@@ -2,7 +2,7 @@
 Basicamente esse lugar é para criar "Issues", com as respectivas altertativas de escolha: reporta problemas(bugs), reporta funcionários (staff), revisão de punições(unban), e sugestões.
 
 ## 🌻 Quais são os projetos ativos? 🌻
-<table><tr><td><img  width="100" src='https://cdn.discordapp.com/attachments/871449104432119828/922303320687788062/roillee.jpg'/></td><td><p><b><p>Roillee Community [Servidor do Discord]</b><br></p>
+<table><tr><td><img  width="100" src='https://cdn.discordapp.com/attachments/871447959416475698/929515313509318706/unknown.png'/></td><td><p><b><p>Roillee Community [Servidor do Discord]</b><br></p>
   <p><ul>🎨 Arte. (Divulgação grátis, e torneios)</ul></p>
   <p><ul>⚖️ Assembleia. (Sistema de votação dos Issues(Github), e roleplay de política)</ul></p>
   <p><ul>🎭 Hospedagem de outros projetos. (Canais de voz, membros ativos, canais de textos, torneios)!</ul></p>
@@ -12,7 +12,7 @@ Basicamente esse lugar é para criar "Issues", com as respectivas altertativas d
   <p><ul>🎮 Jogos eletrônicos. (Torneios, equipe competitiva, guildas/clã)</ul></p>
 </td></tr></table>
 
-<table><tr><td><img  width="100" src='https://cdn.discordapp.com/attachments/871449104432119828/922303733445062766/XTUNYXm6_400x400.png'/></td><td><p><b><p>Projeto Tonoa [Blogger]</b><br></p>
+<table><tr><td><img  width="100" src='https://cdn.discordapp.com/attachments/871449104432119828/929468742944051261/Tonoa.png'/></td><td><p><b><p>Projeto Tonoa [Blogger]</b><br></p>
   <p><ul>🐲 Unvierso fantasioso. (Literatura, escrita, ilustração, dublagem, audiovisual)</ul></p>
 </td></tr></table>
 
