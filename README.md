@@ -28,7 +28,7 @@ Para mais informações entre em nosso servidor do discord: [https://discord.gg/
 
 <img  width="400" src='https://cdn.discordapp.com/attachments/904114197791649823/934850411565842512/Comandos_3.png'/>
 
-# 🔎 Como funciona sistema de análise dos Issues ?
+# 🔎 Como funciona sistema de Issues ?
 
 Protócolos = Issues
 <img  width="2000" src='https://cdn.discordapp.com/attachments/871447959416475698/922309032209973248/Sistema_consul.png'/>
