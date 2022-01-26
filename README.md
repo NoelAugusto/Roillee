@@ -1,7 +1,7 @@
 <h1 align="center">🌼 Roillee 🎭</h1>
 Basicamente esse lugar é para criar "Issues", com as respectivas altertativas de escolha: reporta problemas(bugs), reporta funcionários (staff), revisão de punições(unban), e sugestões.
 
-<img  width="100" src='https://cdn.discordapp.com/attachments/904114197791649823/934850411024765018/Comandos_5.png'>
+<img  width="300" src='https://cdn.discordapp.com/attachments/904114197791649823/934850411024765018/Comandos_5.png'>
 ## 🌻 Quais são os projetos ativos? 🌻
 <table><tr><td><img  width="100" src='https://cdn.discordapp.com/attachments/871447959416475698/929515313509318706/unknown.png'/></td><td><p><b><p>Roillee Community [Servidor do Discord]</b><br></p>
   <p><ul>🎨 Arte. (Divulgação grátis, e torneios)</ul></p>
