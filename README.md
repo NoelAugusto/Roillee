@@ -17,14 +17,12 @@ Basicamente esse lugar é para criar "Issues", com as respectivas altertativas d
   <p><ul>🐲 Unvierso fantasioso. (Literatura, escrita, ilustração, dublagem, audiovisual)</ul></p>
 </td></tr></table>
 
+<img  width="400" src='https://cdn.discordapp.com/attachments/904114197791649823/934850410760515584/Comandos_6.png'>
 ## 📜 Como eu posso criar um Issues?
 Basta seguir o link: [clique aqui](https://github.com/NoelAugusto/Roillee/issues/new/choose), escolha o tópico.
 Para mais informações entre em nosso servidor do discord: [https://discord.gg/5YJKGC8SCr](https://discord.gg/5YJKGC8SCr)
 
+<img  width="400" src='https://cdn.discordapp.com/attachments/904114197791649823/934850411565842512/Comandos_3.png'>
 ## 🔎 Como funciona sistema de análise dos Issues ?
 Protócolos = Issues
-<img  width="1000" src='https://cdn.discordapp.com/attachments/871447959416475698/922309032209973248/Sistema_consul.png'/>
-
-
-
-
+<img  width="2000" src='https://cdn.discordapp.com/attachments/871447959416475698/922309032209973248/Sistema_consul.png'>
